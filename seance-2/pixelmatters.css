@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background: red;
+    padding:10px 40px;
+}
+
+
+.main-article{
+    background:green;
+}
+
+.articles {
+    background:blue;
+    text-align: center;
+}
+
+.article {
+    background:black;
+    color:white;
+    display:inline-block;
+    width:45%;
+    
+}
+
+ul ,li {
+    display: inline-block;
+}
+ul {
+    float:right;
+}
+
+.logo{
+}

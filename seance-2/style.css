@@ -1,0 +1,59 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.bigTitle{
+    width:400px;
+    margin-top:20px;
+    height:100%;
+    display: inline-block;
+    background-color: orange;
+    color:red;
+    border:2px solid black;
+}
+
+h2 {
+    display: inline-block;
+    background:yellow;
+    width:40%;
+}
+
+i{
+    display:inline;
+    background:green;
+    width:200px;
+    padding:20px;
+    margin:20px;
+    font-size:20px;
+}
+
+
+
+b {
+    
+    display:inline-block;
+    width:200px;
+    height:50px;
+    background:blue;
+    color:white;
+    padding:10px;
+    border:10px solid black;
+}
+
+
+.container {
+    margin-top:10px;
+    border:2px solid black;
+}
+
+
+.produit {
+    display:inline-block;
+    width:30%;
+    height:300px;
+    background:green;
+    padding:40px;
+    border:5px solid orange;
+}
